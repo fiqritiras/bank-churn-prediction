@@ -30,6 +30,8 @@ The dataset used is from public dataset published at Kaggle (https://www.kaggle.
    - Support Vector Machine
    - K-Nearest Neighbors
 5. **Model Evaluation**: Assess model performance using metrics like accuracy, precision, recall, F1-score, and also in visualization confusion matrix.
+6. **Feature Importance Checking**: Checking which features influence customer churn the most
+![image](https://github.com/user-attachments/assets/e9d1debe-9891-46c1-a212-e0533bb57f27)
 
 ## Conclusion
 The analysis successfully identified key factors influencing customer churn and built a predictive model using Random Forest Classifier with 86% accuracy. The insights gained from this analysis can help the bank implement targeted retention strategies and enhance customer satisfaction.
