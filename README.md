@@ -1,6 +1,6 @@
 # Bank Churn Prediction
 ## Overview
-This project aims to predict customer churn using unsupervised machine learning technique. Customer churn in a bank refers to when a customer stops using the company's products. By predicting which customers are likely to churn, businesses can take actions to retain them. The project includes data preprocessing, model training, evaluation, and deployment of the churn prediction model.
+This project aims to predict customer churn using supervised machine learning technique. Customer churn in a bank refers to when a customer stops using the company's products. By predicting which customers are likely to churn, businesses can take actions to retain them. The project includes data preprocessing, model training, evaluation, and deployment of the churn prediction model.
 
 ## Dataset
 The dataset used is from public dataset published at Kaggle (https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset). The dataset contains information on customer demographics, services, and behavior. It includes the following key features:
